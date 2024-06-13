@@ -13,6 +13,7 @@
 - Step 6: Creating the Product Performance Page
 - Step 7: Creating the Shipping Map Page
 
+![image](https://github.com/Afranm/Data_analytics_power_bi_report/assets/171168413/acea005f-4007-43e5-8d73-5524d140897e)
 
 
 
