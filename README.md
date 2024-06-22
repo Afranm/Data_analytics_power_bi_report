@@ -3,7 +3,7 @@
 # Contents
 
 
-- Introduction
+- [Introduction](https://github.com/Afranm/Data_analytics_power_bi_report/edit/main/README.md#introduction)
 - Tools and Technologies
 - Step 1: Importing and Transforming Data using Power Query
 - Step 2: Creating the Star Data Model and a Measure Table
