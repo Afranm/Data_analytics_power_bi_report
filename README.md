@@ -26,18 +26,18 @@ This project involved using a sample dataset from https://github.com/microsoft/s
 - Power Query
 - DAX Language
 - M Language
+- VSCode (SQLTools)
 
 ## Step 1: Importing and Transforming Data using Power Query:
 
 I utilised Microsoft SQL Server Management Studio to import and transform all the tables. Then, using the Power Query Editor, I removed unnecessary columns and eliminated rows containing NULL values.
 ##  Step 2: Building the Star Schema and Creating a Measure Table
 
-1. First, I created a Date table with various date formats to enable the use of Power BI's Time Intelligence features. ![image](https://github.com/Afranm/Data_analytics_power_bi_report/assets/171168413/3ace231f-c0aa-4368-9319-94444c13b2e9)
+1. First, I created a Date table with various date formats to enable the use of Power BI's Time Intelligence features. ![image](https://github.com/Afranm/Data_analytics_power_bi_report/assets/171168413/7db70c5e-8578-4764-906a-6d8c19398fd0)
 
-2. Afterwards, I switched to the model view to establish relationships between the Date table and other tables, ensuring the correct relationships were active.
-   ![image](https://github.com/Afranm/Data_analytics_power_bi_report/assets/171168413/754b83aa-2917-4194-96dc-f5924dbb2346)
+2. Afterwards, I switched to the model view to establish relationships between the Date table and other tables, ensuring the correct relationships were active. ![image](https://github.com/Afranm/Data_analytics_power_bi_report/assets/171168413/174872d4-6824-47a7-99c1-36a27ee8880f)
    
-3. Next, I created a Measures Table and filled it with key measures. ![image](https://github.com/Afranm/Data_analytics_power_bi_report/assets/171168413/e18e9b82-722b-4853-aa3f-42912615a1ee)
+3. Next, I created a Measures Table and filled it with key measures. ![image](https://github.com/Afranm/Data_analytics_power_bi_report/assets/171168413/56d18c4e-803b-4c64-887c-27a912bb2de5)
 
 
 ## Step 3: Preparing the Report
