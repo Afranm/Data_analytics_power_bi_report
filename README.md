@@ -3,8 +3,8 @@
 # Contents
 
 
-- [Introduction](Introduction.md)
-- Tools and Technologies
+- [Introduction](#introduction)
+- [Tools and Technologies](#tools-and-technologies)
 - Step 1: Importing and Transforming Data using Power Query
 - Step 2: Creating the Star Data Model and a Measure Table
 - Step 3: Preparing the Report 
@@ -16,7 +16,7 @@
 
 
 
-## Introduction:
+## Introduction
 
 This project involved using a sample dataset from https://github.com/microsoft/sql-server-samples/tree/master/samples/databases to create a comprehensive report in Power BI. I focused on cleaning and integrating data from various sources, transforming it into meaningful visualisations and insights. This demonstrates my ability to handle data cleaning and visualisation tasks effectively.
 
