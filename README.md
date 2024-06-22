@@ -3,7 +3,7 @@
 # Contents
 
 
-- Introduction
+- [Introduction](Introduction.md)
 - Tools and Technologies
 - Step 1: Importing and Transforming Data using Power Query
 - Step 2: Creating the Star Data Model and a Measure Table
