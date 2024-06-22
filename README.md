@@ -5,13 +5,13 @@
 
 - [Introduction](#introduction)
 - [Tools and Technologies](#tools-and-technologies)
-- Step 1: Importing and Transforming Data using Power Query
-- Step 2: Creating the Star Data Model and a Measure Table
-- Step 3: Preparing the Report 
-- Step 4: Creating the Sales Overview Page
-- Step 5: Creating the Customer Analysis Page
-- Step 6: Creating the Product Performance Page
-- Step 7: Creating the Shipping Map Page
+- [Step 1: Importing and Transforming Data using Power Query](#step-1-importing-and-transforming-data-using-power-query)
+- [Step 2: Creating the Star Data Model and a Measure Table](#step-2-building-the-star-schema-and-creating-a-measure-table)
+- [Step 3: Preparing the Report](#step-3-preparing-the-report) 
+- [Step 4: Creating the Sales Overview Page](#step-4-creating-the-sales-overview-page)
+- [Step 5: Creating the Customer Analysis Page](#step-5-creating-the-customer-analysis-page)
+- [Step 6: Creating the Product Performance Page](#step-6-creating-the-product-performance-page)
+- [Step 7: Creating the Shipping Map Page](#step-7-creating-the-shipping-map-page)
 
 
 
